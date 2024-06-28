@@ -28,4 +28,18 @@ button:hover {
 }
 
 
+.botonEliminar{
+  background-color: red;
+}
 
+
+li {
+  list-style: none;
+  background-color: white;
+  border: 1px solid lightgrey;
+  margin: 5px;
+}
+
+li h2, button {
+  margin: 10px;
+}
